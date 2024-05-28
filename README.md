@@ -7,5 +7,7 @@ Quaternions are, by nature, nonlinear in their dynamics/update equation. This me
 Renormalization can work, but the more elegant solution is a Multiplicative Extended Kalman Filter (MEKF).
 
 ## References
+
 [1] The Multiplicative Extended Kalman Filter, https://matthewhampsey.github.io/blog/2020/07/18/mekf
+
 [2] https://apps.dtic.mil/sti/tr/pdf/ADA588831.pdf
